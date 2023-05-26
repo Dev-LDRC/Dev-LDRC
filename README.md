@@ -1,6 +1,6 @@
 # Olá, meu nome é Lucas 👋🙂
 
-## Linguagens e Recursos que ja utilizei até agora:
+### Linguagens e Recursos que ja utilizei até agora:
 
 <br>
 
