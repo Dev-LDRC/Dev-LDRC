@@ -1,6 +1,6 @@
 # Olá, meu nome é Lucas 👋🙂
 
-## Linguagens e Recursos que ja utilizei até agora:
+### Linguagens e Recursos que ja utilizei até agora:
 
 <br>
 
@@ -16,4 +16,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDRandy&layout=donut-vertical&title_color=ffffff&text_color=ffffff&bg_color=0D1117&border_radius=15&show_icons=true&border_color=ffffff)](https://github.com/LDRandy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDRandy&layout=donut-vertical&title_color=ffffff&text_color=ffffff&bg_color=07090c&border_radius=15&show_icons=true&border_color=ffffff)](https://github.com/LDRandy/github-readme-stats)
