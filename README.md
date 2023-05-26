@@ -12,6 +12,7 @@
      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Imagem MySQL">
      <img src="https://img.shields.io/badge/VSCode-1E97E9.svg" alt="Imagem VSCode">
      <img src="https://img.shields.io/badge/PyCharm-366d27.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Imagem PyCharm">
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Imagem javascript">
 </div>
 
 <br>
