@@ -15,7 +15,6 @@
      <img src="https://img.shields.io/badge/JavaScript-F0DF59?style=for-the-badge&logo=javascript&logoColor=black" alt="Imagem javascript">
 </div>
 
-<br>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDRandy&layout=donut-vertical&title_color=ffffff&text_color=ffffff&bg_color=07090c&border_radius=15&border_color=30363d)](https://github.com/LDRandy/)
