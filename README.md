@@ -5,7 +5,7 @@
 <br>
 
 <div>
-     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Imagem Python">
+     <img src="https://img.shields.io/badge/Python-3471A4?style=for-the-badge&logo=python&logoColor=white" alt="Imagem Python">
      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Imagem Flask">
      <img src="https://img.shields.io/badge/HTML5-E24B26?style=for-the-badge&logo=html5&logoColor=white" alt="Imagem HTML5">
      <img src="https://img.shields.io/badge/CSS3-553D7C?style=for-the-badge&logo=css3&logoColor=white" alt="Imagem CSS">
