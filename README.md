@@ -17,4 +17,4 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDRandy&layout=donut-vertical&title_color=ffffff&text_color=ffffff&bg_color=07090c&border_radius=15&border_color=30363d)](https://github.com/LDRandy/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDRandy&layout=donut-vertical&title_color=ffffff&text_color=ffffff&bg_color=07090c&border_radius=15&border_color=30363d)](https://github.com/LDRandy)
