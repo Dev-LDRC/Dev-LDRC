@@ -1,6 +1,6 @@
-# Olá, meu nome é Lucas 👋🙂
+# Hello, my name is Lucas 👋🙂
 
-### Linguagens, Recursos e Ferramentas que ja utilizei:
+### My Skills and Resources:
 
 <br>
 
