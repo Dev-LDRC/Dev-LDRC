@@ -1,5 +1,7 @@
 # Hello, my name is Lucas 👋🙂
 
+Procuro um Estagio, porfavor me ajude XD 0_0
+
 ### My Skills and Resources:
 
 <br>
