@@ -2,7 +2,7 @@
 
 ### Procuro um Estagio, porfavor me ajude... 0_0
 
-### My Skills and Resources:
+### My Skills and Experiences:
 
 <br>
 
