@@ -15,7 +15,7 @@
      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Imagem Django">
      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Imagem VSCode">
      <img src="https://img.shields.io/badge/PyCharm-366d27.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Imagem PyCharm">
-     <img src="https://img.shields.io/badge/javascript-%#F0DF59.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Imagem JavaScript">
+     <img src="https://img.shields.io/badge/javascript-f0df59.svg?style=for-the-badge&logo=javascript&logoColor=010409" alt="Imagem JavaScript">
 </div>
 
 <hr>
