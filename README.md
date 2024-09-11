@@ -17,7 +17,7 @@
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Imagem React">
      <img src="https://img.shields.io/badge/-boostrap-210b4f?style=for-the-badge&logo=bootstrap&labelColor=210b4f" alt="Imagem boostrap">
      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Imagem MongoDB">
-     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Imagem node.js">
+     <img src="https://img.shields.io/badge/node.js-9bd38d?style=for-the-badge&logo=node.js&logoColor=6DA55F" alt="Imagem node.js">
 </div>
 
 <hr>
