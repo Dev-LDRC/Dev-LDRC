@@ -1,6 +1,6 @@
 # Hello, my name is Lucas 👋🙂
 
-### My Skills and Experiences:
+### My Skills, Experiences and Tools:
 
 <br>
 
@@ -14,6 +14,10 @@
      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Imagem VSCode">
      <img src="https://img.shields.io/badge/PyCharm-366d27.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Imagem PyCharm">
      <img src="https://img.shields.io/badge/javascript-f0df59.svg?style=for-the-badge&logo=javascript&logoColor=010409" alt="Imagem JavaScript">
+     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Imagem JavaScript">
+     <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117" alt="Imagem JavaScript">
+     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Imagem JavaScript">
+     
 </div>
 
 <hr>
