@@ -15,8 +15,8 @@
      <img src="https://img.shields.io/badge/PyCharm-366d27.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Imagem PyCharm">
      <img src="https://img.shields.io/badge/javascript-f0df59.svg?style=for-the-badge&logo=javascript&logoColor=010409" alt="Imagem JavaScript">
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Imagem JavaScript">
-     <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117" alt="Imagem JavaScript">
-     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Imagem JavaScript">
+     <img src="https://img.shields.io/badge/-boostrap-48356D?style=for-the-badge&logo=bootstrap&labelColor=0D1117" alt="Imagem JavaScript">
+     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Imagem JavaScript">
      
 </div>
 
