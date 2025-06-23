@@ -1,4 +1,4 @@
-# Olá, me chamo Lucas 👋🙂
+# Olá, me chamo Lucas 👋
 
 ### Seja Bem-Vindo(a) ao meu perfil. Estou no mundo da programação desde 2021 e até hoje gosto muito de estudar sobre e melhorar cada dia mais minhas habilidades como software developer. 🚀 ⚡ 👨‍💻
 
