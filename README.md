@@ -1,11 +1,8 @@
 # Olá, me chamo Lucas 👋🙂
 
-## Sobre mim
-Seja Bem-Vindo(a) ao meu perfil. Estou no mundo da programação desde 2021 e até hoje gosto muito de estudar sobre e melhorar cada dia mais minhas habilidades. 🚀 ⚡ 👨‍💻
+### Seja Bem-Vindo(a) ao meu perfil. Estou no mundo da programação desde 2021 e até hoje gosto muito de estudar sobre e melhorar cada dia mais minhas habilidades como software developer. 🚀 ⚡ 👨‍💻
 
-## 🛠️ Minhas Habilidades e Ferramentas
-
-### Linguagens de Programação
+<!-- ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-30741a?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4267BB?style=for-the-badge&logo=typescript&logoColor=white)
@@ -31,7 +28,7 @@ Seja Bem-Vindo(a) ao meu perfil. Estou no mundo da programação desde 2021 e at
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) -->
 
 ## 📊 Estatísticas GitHub
 
